@@ -13,3 +13,5 @@ Social Network Adevertisement Analysis:
 - Performed Exploratory Data Analysis
 - Analysed the patterns for feature engineering
 - Applyed Decision Tree Classifier for user purchase prediction
+
+For better experience check the notebook at [jupyter nbviewer](https://nbviewer.org/github/dSilu/SocialNetworkAdvertisementAnalysis/blob/main/DT_social_network_analysis.ipynb)
